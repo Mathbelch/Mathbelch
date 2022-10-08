@@ -2,17 +2,16 @@
 <img src="https://komarev.com/ghpvc/?username=mathbelch&label=Profile%20views&color=0eb1b4&style=plastic" alt="mathbelch" /> 
 </p>
 
-<h1 align="center">Hello 👋 <br> I'm Matheus Belchior Ramires</h1>
+<h1 align="center">Hello&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br> I'm Matheus Belchior Ramires</h1>
 <h3 align="center">I'm a persons who is always seeking for acquiring new knowledge and techniques, for solving problems and also for travelling and knowing new people and cultures 🧩🚀</h3>
 
-<br>
 
 <ul>
-  <li> 🧬 Graduated student of Bioprocess and Biotechnology Engineer 🧪 at <b>UTFPR - Toledo</b></li>
+  <li> 🧬 Graduated student of Bioprocess and Biotechnology Engineer 🧪 at <a href="http://www.utfpr.edu.br/campus/toledo" target="_blank">UTFPR - Toledo</a>;</li>
 
-  <li> 👨‍💻 Full Stack Development Student at <b>Biopark Connect</b></li>
+  <li> 👨‍💻 Full Stack Development Student at <a href="https://bioparkeducacao.com.br/v2/en/" target="_blank">Biopark Connect</a>;</li>
 
-  <li> 📫 Get in touch: <i>matheusbelchior23@gmail.com</i>
+  <li> 📫 Get in touch: <i></i>
 </ul>
 
 <br>
@@ -47,6 +46,9 @@
 &nbsp;&nbsp;
 <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/matheus-belchior-ramires/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<br><br>
+<a href = "mailto:matheusbelchior23@gmail.com">
+		<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 <br>
