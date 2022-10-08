@@ -14,7 +14,7 @@
 </ul>
 
 <br>
-<img align="right" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
+<img align="right" height="250" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -52,5 +52,5 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbelch&layout=compact&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbelch&layout=compact&show_icons=true&title_color=3C91E6&icon_color=A2D729&text_color=817F82&bg_color=0000&langs_count=8" />
 
