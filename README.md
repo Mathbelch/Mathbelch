@@ -11,11 +11,10 @@
 
   <li> 👨‍💻 Full Stack Development Student at <a href="https://bioparkeducacao.com.br/v2/en/" target="_blank">Biopark Connect</a>;</li>
 
-  <li> 📫 Get in touch: <i></i>
 </ul>
 
 <br>
-
+<img align="right" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
