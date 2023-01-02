@@ -8,8 +8,12 @@
 
 <ul>
   <li> 🧬 Graduated student of Bioprocess and Biotechnology Engineer 🧪 at <a href="http://www.utfpr.edu.br/campus/toledo" target="_blank">UTFPR - Toledo</a>;</li>
+	
+  <li> 👨‍💻 (2023) Full Stack Development Student at the <a href="https://desenvolve.grupoboticario.com.br/" target="_blank">Boticário Desenvolve Course</a>;</li>
 
-  <li> 👨‍💻 Full Stack Development Student at <a href="https://bioparkeducacao.com.br/v2/en/" target="_blank">Biopark Connect</a>;</li>
+  <li> 👨‍💻 (2022) Full Stack Development Student at <a href="https://bioparkeducacao.com.br/v2/en/" target="_blank">Biopark Connect</a>;</li>
+  
+  <li> 👨‍💻 (2022) Student in Introuction to Computer Science at the <a href="https://cs50.harvard.edu/x/2023/" target="_blank">CS50 Harvard Course</a>;</li>
 
 </ul>
 
